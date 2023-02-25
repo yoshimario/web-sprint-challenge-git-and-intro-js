@@ -213,7 +213,7 @@ console.log("Name of the first artist (0th index) in the array: " + artists[0].n
 
 //(2) Bio of the third artist (2nd index) in the array 
 
-console.log("Bio of the third artist (2nd index) in the array: " + artists[2].bio);
+console
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2 (not auto tested): 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 (no function needed) 
