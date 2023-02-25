@@ -322,8 +322,7 @@ Use artistInfo to do the following:
 */
 
 function artistInfo(artists, artistName){
-  const artist = artists.find(artist => artist.name === artistName);
-  return artist ? artist.bio : null;
+  
 }
 
 
