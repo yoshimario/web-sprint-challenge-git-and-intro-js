@@ -219,8 +219,7 @@ console.log("Bio of the third artist (2nd index) in the array: " + artists[2].bi
 (no function needed) 
 There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is currently Vincent Van Dough. Fix this issue and console.log() to check your work. */
 
-artists[8].name = "Vincent Van Gogh";
-console.log(artists[8].name);
+con
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀  
 Use getArtistByIndex to do the following:
@@ -231,7 +230,7 @@ Use getArtistByIndex to do the following:
 
 🌟 EXAMPLE: if getArtistByIndex is invoked with the artists array and the number 0, it will return `the artist at index 0 is Amedeo Modigliani` */
 
-function getArtistByIndex() {
+function getArtistByIndex(/*Your Code Here*/) {
   /*Your Code Here*/
 }
 
