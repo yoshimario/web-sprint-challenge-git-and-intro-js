@@ -264,8 +264,6 @@ Use removeArtist to do the following:
 
 function removeArtist(artistArray, index) {
   const artistCopy = artistArray.slice();
-  artistCopy.splice(index, 1);
-  return artistCopy;
 }
 
 
