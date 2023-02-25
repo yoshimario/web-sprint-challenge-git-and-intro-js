@@ -289,8 +289,7 @@ Use addArtist to do the following:
 function addArtist(artistArray,name,years,genre,nationality,bio) {
   const copiedArray = [...artistArray];
   const newArtist = { name, years, genre, nationality, bio };
-  copiedArray.push(newArtist);
-  return copiedArray;
+  
 }
 
 
