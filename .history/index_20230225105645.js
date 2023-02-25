@@ -247,8 +247,7 @@ Use listOfNames to do the following:
 */
 
 function listOfNames(artistArray) {
-  const artistNames = artistArray.map(artist => artist.name);
-  return artistNames;
+  /*Your Code Here*/
 }
 
 
