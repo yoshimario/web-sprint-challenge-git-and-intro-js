@@ -304,9 +304,7 @@ Use lotsOfArt to do the following:
 */
 
 function lotsOfArt(artistArray) {
-  const prolificArtists = artistArray.filter(artist => artist.paintings > 100);
-  const artistNames = prolificArtists.map(artist => artist.name);
-  return artistNames;
+  cost
 }
 
 

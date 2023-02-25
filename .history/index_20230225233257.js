@@ -303,10 +303,8 @@ Use lotsOfArt to do the following:
 🌟 EXAMPLE: lotsOfArt(artists) will return ["Amedeo Modigliani", "Rene Magritte", ... "Albrecht Dürer"]
 */
 
-function lotsOfArt(artistArray) {
-  const prolificArtists = artistArray.filter(artist => artist.paintings > 100);
-  const artistNames = prolificArtists.map(artist => artist.name);
-  return artistNames;
+function lotsOfArt() {
+  /*Your Code Here*/
 }
 
 
