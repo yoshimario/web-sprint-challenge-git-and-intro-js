@@ -337,7 +337,7 @@ Use artistByCountry to do the following:
 🌟 EXAMPLE: Invoking artistByCountry(artists, 'Spanish') will return: [ 'Salvador Dali', 'Pablo Picasso', 'Francisco Goya']
 */
 
-function artistByCountry(artistArray, nationality){
+function artistByCountry(artistArray, nationalit){
   const artistsOfNationality = artistArray.filter(artist => artist.nationality === nationality && artist.nationality.split('/').length === 1);
   const artistNames = artistsOfNationality.map(artist => artist.name);
   return artistNames;
